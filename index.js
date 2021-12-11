@@ -9,7 +9,7 @@ api.use(cors({ // Habilita o CORS (Cross Origin Resource Sharing)
 
 const personagens = [
     {
-        nome: "Homer Simpson",
+        nome: "Homer Simpsons",
         imagem: "https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/cropped-homersimpson-6807529.jpg"
     },
     {
