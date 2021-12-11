@@ -1,13 +1,13 @@
 {
   "name": "simpsons-codex-api",
   "version": "1.0.0",
-  "description": "Codex dos Personagens dos Simpsons",
+  "description": "Codex dos Personagens do Irmão do Jorel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx nodemon index.js"
   },
-  "author": "Alison Moura <alison.moura@hightechcursos.com.br>",
+  "author": "Debora Jaimes <deboranjaimes@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
